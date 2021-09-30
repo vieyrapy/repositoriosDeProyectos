@@ -1,11 +1,15 @@
-# repositorioDeProyectos
 # Análisis de Caso
+# Denominación: <br>
+Sitio web para publicación de proyectos de extensión e investigación con funciones de estados
 
-Problemática: <br>
+# Objetivo del proyecto: <br>
+Proveer a los docentes de un sistema web para publicar y dar seguimientos de los proyectos de extensión e investigación que los mismos realizan en cada catedra 
+
+# Problemática: <br>
 Los estudiantes de la Universidad  Autónoma de Encarnación, desde sus inicios han llevado a cabo incontables proyectos de investigación y extensión universitaria en sus respectivas carreras, cursos y asignaturas. En varias ocasiones los mismos han unido cursos de diferentes carreras para trabajar en proyectos comunes, sin descuidar sus áreas profesionales.  
 Hoy día los estudiantes necesitan acceder a  aquellos trabajos presentados anteriormente, para tener un panorama más claro sobre cada investigación y proyecto que se han llevado a cabo e identificar cuáles de ellos necesitan una continuidad.
 
-Entonces, ¿De qué trata el sistema web?<br>
+# Entonces, ¿De qué trata el sistema web?<br>
 Consiste en un sitio que actúa como una biblioteca o repositorio donde se  registran y suben todos los proyectos de extensiones e investigaciones, de todas las facultades/cursos/materias de la UNAE. Y a su vez es público para que cualquier persona pueda ingresar a ver todos los proyectos realizados o en proceso; de esa manera también todos los docentes y estudiantes sabrán que temas ya se utilizaron y así evitar tener proyectos duplicados e inclusive saber en que proyectos se pueden unir  y colaborar.
 
 Se maneja diferentes usuarios, por ejemplo: administradores, docentes y estudiantes; aquellos que no cuenten con un usuario se les consideran como visitantes.
