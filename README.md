@@ -3,7 +3,7 @@
 Sitio web para publicación de proyectos de extensión e investigación con funciones de estados
 
 # Objetivo del proyecto: <br>
-Proveer a los docentes de un sistema web para publicar y dar seguimientos de los proyectos de extensión e investigación que los mismos realizan en cada catedra 
+Proveer a los docentes de un sistema web para publicar y dar seguimientos de los proyectos de extensión e investigación que los mismos realizan en cada cátedra 
 
 # Problemática: <br>
 Los estudiantes de la Universidad  Autónoma de Encarnación, desde sus inicios han llevado a cabo incontables proyectos de investigación y extensión universitaria en sus respectivas carreras, cursos y asignaturas. En varias ocasiones los mismos han unido cursos de diferentes carreras para trabajar en proyectos comunes, sin descuidar sus áreas profesionales.  
